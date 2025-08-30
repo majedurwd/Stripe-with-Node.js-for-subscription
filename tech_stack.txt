@@ -1,0 +1,2 @@
+Used Node.js for the Server.
+Used Next.js for the Client.
